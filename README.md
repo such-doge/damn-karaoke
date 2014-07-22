@@ -2,6 +2,6 @@ damn-karaoke
 ============
 damn aegisub karaoke script
 
-pixelate_clip.ass
-=================
-Breaks up a subtitle line into rectangular array of boxes (clips) that can be selectively turned off by another script to create a "pixelated destruction" effect. Damn good.
+Flicker_Pixelate_Float
+=============
+Sword Art Online II opening karaoke. "Pixels" (8x8 blocks) that make up the line flicker and then turn into a dead pixels that float away.
